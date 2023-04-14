@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunjohnzhang&theme=graywhite&count_private=true&hide=contribs,stars&show_icons=true&exclude_repo=pyribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunjohnzhang&theme=graywhite&count_private=true&hide=contribs,stars&show_icons=true&exclude_repo=warehouse_env_gen_nca)](https://github.com/anuraghazra/github-readme-stats)
