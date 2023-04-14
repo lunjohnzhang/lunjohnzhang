@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunjohnzhang&theme=graywhite&hide=contribs,stars&show_icons=true&exclude_repo=lunjohnzhang/yulun-academic)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunjohnzhang&theme=graywhite&hide=contribs,stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
